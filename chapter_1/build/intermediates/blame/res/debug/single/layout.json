@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\AndroidStudio\\WorkSpace\\Demo\\android_art_code\\chapter_1\\build\\intermediates\\res\\merged\\debug\\layout\\activity_second.xml",
+        "source": "F:\\AndroidStudio\\WorkSpace\\Demo\\android_art_code\\chapter_1\\src\\main\\res\\layout\\activity_second.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\WorkSpace\\Demo\\android_art_code\\chapter_1\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\AndroidStudio\\WorkSpace\\Demo\\android_art_code\\chapter_1\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\WorkSpace\\Demo\\android_art_code\\chapter_1\\build\\intermediates\\res\\merged\\debug\\layout\\activity_third.xml",
+        "source": "F:\\AndroidStudio\\WorkSpace\\Demo\\android_art_code\\chapter_1\\src\\main\\res\\layout\\activity_third.xml"
+    }
+]

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="F:\Develop\android-studio\gradle\gradle-2.8" />
+        <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Chapter_13_2_MultiDexTest" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/chapter_1" />
+            <option value="$PROJECT_DIR$/chapter_11" />
+            <option value="$PROJECT_DIR$/chapter_12" />
+            <option value="$PROJECT_DIR$/chapter_13_1_crashTest" />
+            <option value="$PROJECT_DIR$/chapter_15" />
+            <option value="$PROJECT_DIR$/chapter_2" />
+            <option value="$PROJECT_DIR$/chapter_3" />
+            <option value="$PROJECT_DIR$/chapter_4" />
+            <option value="$PROJECT_DIR$/chapter_5" />
+            <option value="$PROJECT_DIR$/chapter_6" />
+            <option value="$PROJECT_DIR$/chapter_7" />
+            <option value="$PROJECT_DIR$/chapter_8" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

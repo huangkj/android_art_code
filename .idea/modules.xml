@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Chapter_13_2_MultiDexTest/Chapter_13_2_MultiDexTest.iml" filepath="$PROJECT_DIR$/Chapter_13_2_MultiDexTest/Chapter_13_2_MultiDexTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android_art_code.iml" filepath="$PROJECT_DIR$/android_art_code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter_1/chapter_1.iml" filepath="$PROJECT_DIR$/chapter_1/chapter_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter_11/chapter_11.iml" filepath="$PROJECT_DIR$/chapter_11/chapter_11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter_12/chapter_12.iml" filepath="$PROJECT_DIR$/chapter_12/chapter_12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter_13_1_crashTest/chapter_13_1_crashTest.iml" filepath="$PROJECT_DIR$/chapter_13_1_crashTest/chapter_13_1_crashTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter_15/chapter_15.iml" filepath="$PROJECT_DIR$/chapter_15/chapter_15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter_2/chapter_2.iml" filepath="$PROJECT_DIR$/chapter_2/chapter_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter_3/chapter_3.iml" filepath="$PROJECT_DIR$/chapter_3/chapter_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter_4/chapter_4.iml" filepath="$PROJECT_DIR$/chapter_4/chapter_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter_5/chapter_5.iml" filepath="$PROJECT_DIR$/chapter_5/chapter_5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter_6/chapter_6.iml" filepath="$PROJECT_DIR$/chapter_6/chapter_6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter_7/chapter_7.iml" filepath="$PROJECT_DIR$/chapter_7/chapter_7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter_8/chapter_8.iml" filepath="$PROJECT_DIR$/chapter_8/chapter_8.iml" />
+    </modules>
+  </component>
+</project>
